@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/images/we.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['phone',['$event']]]]]}}" bindtap="__e">联系电话：19985076924（点击拨打）</view><view>地址：广西自治区南宁市西乡塘区大学东路101号</view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" scale="{{scale}}"></map></view></view>

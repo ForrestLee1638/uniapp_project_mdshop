@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "明东超市",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list"
+  }
+}
